@@ -1,0 +1,17 @@
+{
+  "name": "chaiaurcode",
+  "version": "1.0.0",
+  "description": "backend with chai",
+  "keywords": [
+    "ja",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "tanishq shrivas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
