@@ -1,0 +1,5 @@
+# chai aur backend
+
+video series
+
+- [Model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDV1SENWWVp1Y2dUMUhJaF9KMXRvdTlmS053d3xBQ3Jtc0ttbTQwcVd0UEN1SkdCVFNoS2xtbkMxU1NQck5hSmx1YTVUV0xEcEwwcWg4c2ZJelJJdGEzMmRrV3kxUHNHeXN5cUJzUXNPUzZfcGxsQzA3RG8yT3RzeWRRT2ZLQXM5d2N5bG1zcVR3eDJsZGlSS3hFcw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
